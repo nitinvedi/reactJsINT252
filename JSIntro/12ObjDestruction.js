@@ -8,6 +8,3 @@ console.log(age);
 const {name: n, country: c} = person
 console.log(n, c);
 
-
-
-const 
