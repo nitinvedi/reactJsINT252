@@ -8,10 +8,12 @@ function App() {
   return (
 
     <>
-      {Add(2, 3)}
-      {Subtract(23, 3)}
-      {Multiply(20, 3)}
-      {Divide(9, 3)}
+      <div className="bg-amber-500">
+        {Add(2, 3)}
+      </div>
+      <div className='bg-green-300'> {Subtract(23, 3)} </div>
+      <div className='bg-red-300'> {Multiply(20, 3)} </div>
+      <div className='bg-blue-300'> {Divide(9, 3)} </div>
     </>
 
   )
