@@ -1,0 +1,28 @@
+.welcome-container {
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    color: #1e90ff;
+}
+
+.welcome-image {
+    width: 200px;
+    margin: 20px 0;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.info-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+}
+
+.info-table tr:nth-child(even) {
+    background-color: #2f2c2c;
+}
