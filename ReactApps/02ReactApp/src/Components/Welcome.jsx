@@ -4,7 +4,6 @@ export default function WelcomeContainer() {
         <div className="welcome-container">
             <h2>Hello, Welcome to my React App</h2>
             <img src={MountainPic} alt="no image found" />
-            </>
         </div>
     )
 }

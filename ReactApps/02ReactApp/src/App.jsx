@@ -1,6 +1,7 @@
 import Greeting from './Components/Greeting.jsx'
 import './App.css'
 import Welcome from './Components/Welcome.jsx'
+import Table from './Components/Table.jsx'
 
 function App() {
 
